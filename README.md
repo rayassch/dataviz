@@ -10,7 +10,7 @@ Test 1
 Test 2
 
 
-<iframe src="https://rayassch.github.io/highcharts-scatter-csv/" width="90%" height="550"></iframe>
+<iframe src="https://rayassch.github.io/highcharts-scatter-csv/" width="90%" height="450"></iframe>
 
 
 
