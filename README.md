@@ -10,7 +10,7 @@ Test 1
 Test 2
 
 
-<iframe src="https://rayassch.github.io/highcharts-scatter-csv/" width="90%" height="350"></iframe>
+<iframe src="https://rayassch.github.io/highcharts-scatter-csv/" width="90%" height="550"></iframe>
 
 
 
@@ -18,4 +18,4 @@ Test 2
 Test 3
 
 
-<iframe src="https://rayassch.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
+<iframe src="https://rayassch.github.io/leaflet-map-simple" width="90%" height="550"></iframe>
