@@ -18,4 +18,4 @@ Test 2
 Test 3
 
 
-<iframe src="https://rayassch.github.io/leaflet-map-simple" width="90%" height="550"></iframe>
+<iframe src="https://rayassch.github.io/leaflet-map-simple" width="90%" height="750"></iframe>
